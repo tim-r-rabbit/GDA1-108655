@@ -21,6 +21,6 @@ File information:
 
 ### Pandas.html
 
-This is an HTML version of the final Jupyter notebook. It is located in the subfolder `/dir`, along with a copy of the image `Pandas.webp`, to ensure correct display when this file is opened locally.
+This is an HTML version of the final Jupyter notebook. It is located in the subfolder `/dist`, along with a copy of the image `Pandas.webp`, to ensure correct display when this file is opened locally.
 
 
